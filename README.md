@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Ameer
 - 👀 I’m interested in Create new web and Applicaton
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on Python
 - 💞️ I’m looking to collaborate on some Company
 - 📫 How to reach me via email mohdameer01a@gmail.com
 - ⚡ Fun fact: Watching movies and playing games
